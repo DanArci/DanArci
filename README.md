@@ -11,4 +11,4 @@
 - 📫 You can find me in GitHub, my user is: [DanArci](https://github.com/DanArci).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started studying web development because of my guilty pleasure with Excel spreadsheets. It's not actually a very funny fact.
-- Im currently learning in: <img width="300" height="96" alt="image" src="https://github.com/user-attachments/assets/2cca7183-0665-4147-a80d-659f4daed596" />
+- Im currently learning in: [This is an alt text bro!](https://riwi.io/wp-content/uploads/2025/08/cropped-RIWI-logo-dark-full-color.png)
